@@ -1,0 +1,25 @@
+{
+  "name": "one-dark-darker",
+  "displayName": "One Dark Darker",
+  "description": "A black themed One Dark Pro variant",
+  "icon": "one-dark-darker-logo.png",
+  "version": "0.0.1",
+  "publisher": "okerbs-publisher",
+  "repository": "https://github.com/KerbsOD/One-Dark-Darker",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-Darker.json",
+        "semanticHighlighting": true
+      }
+    ]
+  }
+}
