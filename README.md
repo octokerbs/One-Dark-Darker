@@ -9,3 +9,6 @@ Custom One Dark Pro Theme, the classic One Dark Pro with a darker touch for thos
 
 
 Base Theme: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+## Showcase
+![Image]("./showcase.png")
